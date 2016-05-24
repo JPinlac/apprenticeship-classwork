@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "857942EBBFC746F1944750B21851124B4A4DE824",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "857942EBBFC746F1944750B21851124B4A4DE824" : 0,
+    "3E3E68CBB4DF3F86D3403EB8F3C4CCACD9E387B5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BEE8F083-06AA-4134-8F3F-CA74ED2DD45D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "857942EBBFC746F1944750B21851124B4A4DE824" : "even-or-odd\/",
+    "3E3E68CBB4DF3F86D3403EB8F3C4CCACD9E387B5" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "even-or-odd",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "even-or-odd.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:JPinlac\/apprenticeship-classwork.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E3E68CBB4DF3F86D3403EB8F3C4CCACD9E387B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:JPinlac\/even-or-odd.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "857942EBBFC746F1944750B21851124B4A4DE824"
+    }
+  ]
+}

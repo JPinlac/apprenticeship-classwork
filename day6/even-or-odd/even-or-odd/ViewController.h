@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *userEntry;
+@property (weak, nonatomic) IBOutlet UIButton *evaluate;
+@property (weak, nonatomic) IBOutlet UILabel *result;
 
+-(IBAction)evaluateNumber;
+    
 @end
 

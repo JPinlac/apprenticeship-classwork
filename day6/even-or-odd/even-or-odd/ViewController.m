@@ -8,9 +8,6 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
-
-@end
 
 @implementation ViewController
 
@@ -24,4 +21,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)evaluateNumber:(NSString *)input{
+    int number = [input floatValue];
+    if(number % 2 ==0){
+        self.result.text = [NSString stringWithFormat: @"%i is even", number];
+    }
+}
 @end
